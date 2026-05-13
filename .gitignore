@@ -1,0 +1,14 @@
+# Data files — never commit your company list or outreach data
+*.csv
+outreach_data.json
+
+# Environment
+.env
+.env.local
+.env*.local
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
